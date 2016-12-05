@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Tree_c" size="1.000000 0.545181" />
+    <ImageTarget name="Iron_c" size="1.000000 0.750000" />
+    <ImageTarget name="Water_c" size="1.000000 1.333333" />
+    <ImageTarget name="Stone_c" size="1.000000 0.750000" />
+    <CylinderTarget name="Beer_2" sideLength="1.000000"/>
+    <CylinderTarget name="Beer_3" sideLength="1.000000"/>
+    <CylinderTarget name="Beer_4" sideLength="1.000000"/>
+    <CylinderTarget name="Beer_5" sideLength="1.000000"/>
+    <CylinderTarget name="Beer_1" sideLength="1.000000"/>
+  </Tracking>
+</QCARConfig>
